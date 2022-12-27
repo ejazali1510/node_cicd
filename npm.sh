@@ -10,6 +10,6 @@ sudo systemctl restart node.service
 
 #If your are using PM2. use below commands(un-comment)
 
-pm2 start cms.js
+#pm2 start cms.js
 
-pm2 restart cms
+#pm2 restart cms
